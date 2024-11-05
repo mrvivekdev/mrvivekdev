@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on MERN stack<br>Management chief of lux technology 
+Currently working on MERN stack<br>🌐 Tech Lead And Mentor At @Google Developer Group | Turning complex problems into innovative solutions Passionate about technology
 
 
 ## 🌐 Socials:
